@@ -1,0 +1,8 @@
+name=str(input("Enter Your Name:"))
+age=int(input("Enter Your age: "))
+college=str(input("Enter Your College's Name: "))
+cgpa=float(input("Enter Your CGPA: "))
+print(name)
+print(age)
+print(college)
+print(cgpa)
